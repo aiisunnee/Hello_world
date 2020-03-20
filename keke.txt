@@ -3,3 +3,5 @@ Git is Git.
 Git is a distributed version control system.
 Git is balab.
 Git is is is is is is.
+Git is free software.
+
